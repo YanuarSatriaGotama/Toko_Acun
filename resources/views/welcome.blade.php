@@ -4,7 +4,7 @@ $select_sql = "SELECT *FROM elektroniks";
 $result = $conn->query($select_sql);
 
 // if (!$result) {
-//     echo mysqli_error($conn);
+//     echo mysqli_error($conn)
 // }
 ?>
 
